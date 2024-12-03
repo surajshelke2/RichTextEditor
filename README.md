@@ -29,8 +29,10 @@ A lightweight and versatile Rich Text Editor built for seamless text editing and
 - **Lightweight**: Minimal dependencies for faster load times.
 
 ## Demo
+![Screenshot 2024-12-02 160602](https://github.com/user-attachments/assets/c17e530e-f002-459a-beb9-acd445d3180b)
 
-![RichTextEditor Screenshot](assets/demo.png)
+![screencapture-localhost-3000-Article-2024-12-03-20_45_50](https://github.com/user-attachments/assets/39c66aa1-144a-4f7e-b749-08f54759ab8e)
+
 
 Try it out live here: [Demo Page](https://example.com) *(Replace with actual demo URL if available)*
 
